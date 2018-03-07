@@ -10,8 +10,8 @@
 int sensor_pin = A4;
 int output_value;
 
-const char* ssid     = "Rishi";
-const char* password = "Rishi1234";
+const char* ssid     = "smartagriculture";
+const char* password = "smartagriculture@2018";
 
 char final_output[40] = "";
 char final_sub[40] = "";
